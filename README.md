@@ -31,3 +31,4 @@ gcc -o file_inspector main.c
 ### Options:
 
 * `-R` — Recursively list directory contents
+````
