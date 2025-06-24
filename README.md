@@ -1,4 +1,3 @@
-````markdown
 # 🔍 Lesli
 
 A simple C utility to display detailed information about files and directories — similar to `ls -li` (hence the name Lesli) — with optional recursive traversal.
@@ -31,4 +30,3 @@ gcc -o file_inspector main.c
 ### Options:
 
 * `-R` — Recursively list directory contents
-````
